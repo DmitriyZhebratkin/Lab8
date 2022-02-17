@@ -1,0 +1,14 @@
+C:\Users\Дима\source\repos\LB_8_1\LB_8_1\bin\Debug\netcoreapp3.1\LB_8_1.exe
+C:\Users\Дима\source\repos\LB_8_1\LB_8_1\bin\Debug\netcoreapp3.1\LB_8_1.deps.json
+C:\Users\Дима\source\repos\LB_8_1\LB_8_1\bin\Debug\netcoreapp3.1\LB_8_1.runtimeconfig.json
+C:\Users\Дима\source\repos\LB_8_1\LB_8_1\bin\Debug\netcoreapp3.1\LB_8_1.runtimeconfig.dev.json
+C:\Users\Дима\source\repos\LB_8_1\LB_8_1\bin\Debug\netcoreapp3.1\LB_8_1.dll
+C:\Users\Дима\source\repos\LB_8_1\LB_8_1\bin\Debug\netcoreapp3.1\LB_8_1.pdb
+C:\Users\Дима\source\repos\LB_8_1\LB_8_1\obj\Debug\netcoreapp3.1\LB_8_1.csproj.AssemblyReference.cache
+C:\Users\Дима\source\repos\LB_8_1\LB_8_1\obj\Debug\netcoreapp3.1\LB_8_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дима\source\repos\LB_8_1\LB_8_1\obj\Debug\netcoreapp3.1\LB_8_1.AssemblyInfoInputs.cache
+C:\Users\Дима\source\repos\LB_8_1\LB_8_1\obj\Debug\netcoreapp3.1\LB_8_1.AssemblyInfo.cs
+C:\Users\Дима\source\repos\LB_8_1\LB_8_1\obj\Debug\netcoreapp3.1\LB_8_1.csproj.CoreCompileInputs.cache
+C:\Users\Дима\source\repos\LB_8_1\LB_8_1\obj\Debug\netcoreapp3.1\LB_8_1.dll
+C:\Users\Дима\source\repos\LB_8_1\LB_8_1\obj\Debug\netcoreapp3.1\LB_8_1.pdb
+C:\Users\Дима\source\repos\LB_8_1\LB_8_1\obj\Debug\netcoreapp3.1\LB_8_1.genruntimeconfig.cache
